@@ -8,7 +8,7 @@ const SITE = {
   empresa: "7CANALES MARKETING DIGITAL S.R.L.",
   lema: "Tu siguiente paso digital.",
   region: "Desde Latinoamérica, para tu negocio.",
-  logo: "assets/colibri.png",
+  logo: "../core/assets/colibri.png",
   titulo: "Asesoría profesional clara, cuando la necesitas",
   subtitulo: "Explora los servicios, conoce la presentación del equipo y descubre cómo se organiza una web para servicios profesionales.",
 
